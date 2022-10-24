@@ -16,7 +16,7 @@
  */
 package com.squareup.okhttp;
 
-import com.squareup.okhttp.internal.Internal;
+// import com.squareup.okhttp.internal.Internal;
 import com.squareup.okhttp.internal.RouteDatabase;
 import com.squareup.okhttp.internal.Util;
 import com.squareup.okhttp.internal.http.StreamAllocation;
